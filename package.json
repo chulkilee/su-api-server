@@ -1,0 +1,18 @@
+{
+  "name": "su-api-server",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chulki Lee <chulki.lee@gmail.com> (https://github.com/chulkilee)",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^2.6.1",
+    "cheerio": "^0.18.0",
+    "hapi": "^8.2.0",
+    "request": "^2.53.0"
+  }
+}
